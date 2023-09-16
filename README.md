@@ -15,6 +15,7 @@ Currently 'wght' axis is not present in the variable font, but will be added in 
 
 ## Plans
 - Add more weights
+- Kerning
 - Sleep
 
 ### ⏳ In progress
