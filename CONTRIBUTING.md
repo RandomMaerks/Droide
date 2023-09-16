@@ -49,7 +49,7 @@ py -m pip install fontmake
 Once the installation is complete, enter `cd` then drag in the source directory (assuming you've
 downloaded the .zip and extracted it). For example:
 ```
-cd "C:\Users\...\Overused-Grotesk-main\source"
+cd "C:\Users\...\Droide-main\source"
 ```
 
 ### Generate
