@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="ANTH" name="Anthro" minimum="0" maximum="1" default="0"/>
+  </axes>
+  <sources>
+    <source filename="DroideFutur-Light.ufo" familyname="Droide" stylename="Futur Light">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Anthro" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="DroideAnthro-Light.ufo" familyname="Droide" stylename="Anthro Light">
+      <location>
+        <dimension name="Anthro" xvalue="0"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="DroideAnthro-Light" familyname="Droide" stylename="Anthro Light" filename="instances/DroideAnthro-Light.ufo" stylemapfamilyname="Droide Anthro Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Anthro" xvalue="0"/>
+      </location>
+    </instance>
+    <instance name="DroideTransit-Light" familyname="Droide" stylename="Transit Light" filename="instances/DroideTransit-Light.ufo" stylemapfamilyname="Droide Transit Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Anthro" xvalue="0.5"/>
+      </location>
+    </instance>
+    <instance name="DroideFutur-Light" familyname="Droide" stylename="Futur Light" filename="instances/DroideFutur-Light.ufo" stylemapfamilyname="Droide Futur Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Anthro" xvalue="1"/>
+      </location>
+    </instance>
+  </instances>
+</designspace>
